@@ -7,7 +7,7 @@
 - [ ] Eiffel Tower
 - [ ] Louvre Museum 
 - [ ] Arc Du Triomphe
-## Amsterdam, Netherland
+## Amsterdam, Netherlands
 - [ ] Anne Frank House 
 - [ ] Red Light District
 - [ ] Canal Cruise 
