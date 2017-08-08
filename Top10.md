@@ -36,6 +36,6 @@
 - [ ] Blue Lagoon
 - [ ] Seljalandsfoss Waterfall
 ## Dubrovnik, Croatia 
-- [ ] Tour Old Town and the Ancient City Walls
+- [ ] Walking Tour Old Town and the Ancient City Walls
 - [ ] Wine and Food Tour
 - [ ] Peacock Island
