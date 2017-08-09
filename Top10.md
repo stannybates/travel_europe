@@ -27,10 +27,10 @@
 - [ ] Sintra Castle
 - [ ] Belem Tower
 - [ ] Bairro Alto
-## Dublin, Ireland
-- [ ] Guiness Storehouse 
-- [ ] Kilmainham Gaol
-- [ ] Old Jameson Distillery 
+## Rome, Italy
+- [ ] Coliseum
+- [ ] Vatican
+- [ ] Sistine Chapel 
 ## Reykjavik, Iceland
 - [ ] Golden Circle
 - [ ] Blue Lagoon
